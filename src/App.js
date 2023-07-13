@@ -28,7 +28,7 @@ function App() {
               maw={240}
               src="./qr.png"
               alt="Random image"
-              caption="Scan for URL"
+              caption="https://vishal-kondle.vercel.app/"
             />
           </Grid.Col>
           <Grid.Col pl={"xl"} span={8}>
