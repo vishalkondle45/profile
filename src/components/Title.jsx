@@ -4,7 +4,7 @@ import React from "react";
 const Title = () => {
   return (
     <>
-      <Box mt={"lg"}>
+      <Box mb={"xl"}>
         <Text fw={700} tt="uppercase" sx={{ fontSize: "5rem" }}>
           Vishal
         </Text>
