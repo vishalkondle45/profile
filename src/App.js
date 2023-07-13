@@ -26,7 +26,7 @@ function App() {
               mt={"xl"}
               pt={"xl"}
               maw={240}
-              src="./qr_localhost.png"
+              src="./qr.png"
               alt="Random image"
               caption="Scan for URL"
             />
